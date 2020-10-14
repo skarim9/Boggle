@@ -6,7 +6,8 @@ Boggle is a simple word game that involves forming as many words as you can from
 
 Android Studio version 3.4.1 or higher
 
-Android SDK 5 "Lollipop" (API level 22) or higher
+Minimum SDK: Android SDK 5 "Lollipop" (API level 22) 
+Target SDK: Android SDK 10 (API level 29) or higher
 
 Latest version of the Android NDK framework
 
